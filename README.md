@@ -100,4 +100,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootescobar&show_icons=true&locale=en&layout=compact" alt="rootescobar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootescobar&show_icons=true&locale=en" alt="rootescobar" /></p>
+<p>&nbsp;<img align="center" background= "Black" src="https://github-readme-stats.vercel.app/api?username=rootescobar&show_icons=true&locale=en" alt="rootescobar" /></p>

@@ -80,7 +80,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://rootescobar.github.io/PortFolio/](https://rootescobar.github.io/PortFolio/)
+- 👨‍💻 All of my projects are available at [in progress](in progress)
 
 - 💬 Ask me about **SQL, .Net, JS, Kotlin**
 

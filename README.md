@@ -80,7 +80,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 👨‍💻 All of my projects are available at (in progress) ⚙️🚧🏗️
 
 - 💬 Ask me about **SQL, .Net, JS, Kotlin**
 

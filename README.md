@@ -74,7 +74,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootescobar&label=Profile%20views&color=0e75b6&style=flat" alt="rootescobar" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rootescobar-ma&theme=onedark" alt="rootescobar" /> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootescobar-ma&theme=onedark" alt="rootescobar" /></a></p>
 
 - 🔭 I’m currently working on Kata Software ESA [Cartera Digital](https://cartera-digital.com/)
 

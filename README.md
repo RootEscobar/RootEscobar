@@ -73,8 +73,7 @@
 <h3 align="center">"Writing SQL is like solving a puzzle: each well-constructed query is a key piece that reveals the full picture of your data."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootescobar&label=Profile%20views&color=0e75b6&style=flat" alt="rootescobar" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="rootescobar" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootescobar&theme=juicyfresh" alt="rootescobar" /></a></p>
 
 - 🔭 I’m currently working on Kata Software ESA [Cartera Digital](https://cartera-digital.com/)
 

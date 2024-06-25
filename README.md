@@ -99,4 +99,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&show_icons=true" /></p>
 
-<p>&nbsp;<img align="center" background= "Black" src="https://github-readme-stats.vercel.app/api?username=rootescobar&show_icons=true&locale=en" alt="rootescobar" /></p>

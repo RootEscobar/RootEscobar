@@ -100,5 +100,5 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootEscobar&theme=omni"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&show_icons=true" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodval&theme=dark"/></p>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootEscobar&theme=omni"/></p>
+
 

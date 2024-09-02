@@ -73,6 +73,7 @@
 <h3 align="center">"Writing SQL is like solving a puzzle: each well-constructed query is a key piece that reveals the full picture of your data."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootescobar&label=Profile%20views&color=blueviolet&style=flat" alt="rootescobar" /> </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RootEscobar&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 

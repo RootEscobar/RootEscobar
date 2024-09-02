@@ -108,8 +108,7 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootEscobar&theme=dark"/></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=RootEscobar&limit=5&theme=dark&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
-![](https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RootEscobar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=RootEscobar&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootEscobar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 

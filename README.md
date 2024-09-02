@@ -102,10 +102,10 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&no-frame=true&no-bg=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RootEscobar&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RootEscobar&limit=5&theme=monokai&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
 
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootEscobar&theme=dark"/></p>

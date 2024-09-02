@@ -102,16 +102,15 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&no-frame=true&no-bg=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&no-frame=true&no-bg=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RootEscobar&limit=5&theme=monokai&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
-![](https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RootEscobar&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootEscobar&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=RootEscobar&limit=5&theme=dark&combine_all_yearly_contributions=true&no-frame=true&no-bg=true)
+![](https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RootEscobar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RootEscobar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RootEscobar&theme=dark"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RootEscobar&theme=dark&show_icons=true" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodval&theme=dark"/></p>
 
 
